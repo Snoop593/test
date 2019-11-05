@@ -1,0 +1,32 @@
+*{
+	font-size: 2vh;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color:black;
+}
+.decor {
+  position: relative;
+  max-width: 400px;
+  margin: 50px auto 0;
+  background: pink;
+  border-radius: 30px;
+  text-align:center;
+}
+.decor button{
+	text-decoration: none;
+  	background: red;
+  	outline: none;
+  	cursor: pointer;
+}
+.decor button:hover{
+	background: orange;
+}
+.decor table{
+	 width:100%;
+}
+.decor table td{
+	text-align: center;
+}
+.image img{
+	width: 100px;
+	height: auto;
+}
